@@ -14,3 +14,19 @@ Students_Marks = {"John": {"Computer Programming": 80, "Math": 90, "English": 70
                    "Mary": {"Computer Programming": 45, "Math": 70, "English": 60, "Physic": 65, "Dance": 80, "Electronic": 70},
                    "Tom": {"Computer Programming": 80, "Math": 55, "English": 75, "Physic": 70, "Dance": 75, "Electronic": 80},
                    "Jane": {"Computer Programming": 90, "Math": 95, "English": 80, "Physic": 75, "Dance": 80, "Electronic": 85}}
+
+for name in Students_Marks:
+    print("{:10}".format(name), end=" ")
+    sumGrade = 0
+    sumCredit = 0
+    for subject in Students_Marks[name]:
+        gradeStrTemp = ""
+        for grade in Grade_Level:
+            if Students_Marks[name][subject] >= Grade_Level[grade]:
+                gradeStrTemp = grade
+                break
+        print(subject, ":", "{:5}".format(gradeStrTemp), end="")
+        sumGrade += Grade_Point[gradeStrTemp] * Credits[subject]
+        sumCredit += Credits[subject]
+
+    print("GPA: {:.2f}".format(sumGrade / sumCredit))

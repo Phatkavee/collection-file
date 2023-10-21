@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T10:12:56.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JQei4wGv7gSyCw5zUIsf" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-21T10:44:21.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="CoUBDfKkmLEK1XYAZSiF" version="22.0.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="838" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -230,6 +230,9 @@
             <mxPoint x="465" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q0vENTSF0B63elXJC0Ba-134" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;startSize=30;" edge="1" parent="1" source="Q0vENTSF0B63elXJC0Ba-57" target="Q0vENTSF0B63elXJC0Ba-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-57" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;whiteSpace=wrap;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;fontFamily=Helvetica;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="230" y="1210" width="140" height="150" as="geometry" />
         </mxCell>
@@ -296,11 +299,11 @@
         <mxCell id="Q0vENTSF0B63elXJC0Ba-73" value="ระบบคลังสินค้า" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="Q0vENTSF0B63elXJC0Ba-71">
           <mxGeometry x="20.004288425047445" y="69.99571428571429" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q0vENTSF0B63elXJC0Ba-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q0vENTSF0B63elXJC0Ba-75" target="Q0vENTSF0B63elXJC0Ba-78">
+        <mxCell id="Q0vENTSF0B63elXJC0Ba-139" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;startSize=30;" edge="1" parent="1" source="Q0vENTSF0B63elXJC0Ba-75" target="Q0vENTSF0B63elXJC0Ba-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-75" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;whiteSpace=wrap;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;fontFamily=Helvetica;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1890" width="140" height="150" as="geometry" />
+          <mxGeometry x="20" y="1680" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-76" value="5" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;fontSize=18;align=center;spacing=20;verticalAlign=middle;fontFamily=Helvetica;startSize=30;" vertex="1" parent="Q0vENTSF0B63elXJC0Ba-75">
           <mxGeometry width="140" height="50" relative="1" as="geometry" />
@@ -309,18 +312,13 @@
           <mxGeometry x="20.004288425047445" y="69.99571428571429" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-78" value="เจ้าของกิจการ" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="385" y="1925" width="120" height="80" as="geometry" />
+          <mxGeometry x="30" y="1920" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-82" value="รายงานการขาย" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1930" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Q0vENTSF0B63elXJC0Ba-84" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;startSize=30;entryX=0.014;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q0vENTSF0B63elXJC0Ba-83" target="Q0vENTSF0B63elXJC0Ba-71">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="1640" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="85" y="1860" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-83" value="พนักงานจัดการ&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;คลังสินค้า" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1590" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="1760" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-89" value="คำสั่งซื้อสินค้า" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="1090" width="90" height="30" as="geometry" />
@@ -379,7 +377,7 @@
           <mxGeometry x="500" y="1615" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-123" value="ข้อมูลคลังสินค้า" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1600" width="100" height="30" as="geometry" />
+          <mxGeometry x="295" y="1720" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-125" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.002;entryY=0.696;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;startSize=30;" edge="1" parent="1" source="Q0vENTSF0B63elXJC0Ba-16" target="Q0vENTSF0B63elXJC0Ba-65">
           <mxGeometry relative="1" as="geometry" />
@@ -395,6 +393,21 @@
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-131" value="ใบส่งสินค้า" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="610" y="1810" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0vENTSF0B63elXJC0Ba-132" value="D3" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];container=0;dropTarget=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="24.039999999999985" y="1530" width="125.96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0vENTSF0B63elXJC0Ba-133" value="แฟ้มข้อมูลการขาย" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="55.00000000000002" y="1530" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0vENTSF0B63elXJC0Ba-135" value="ข้อมูลการขาย" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1278" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0vENTSF0B63elXJC0Ba-137" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.54;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;startSize=30;" edge="1" parent="1" source="Q0vENTSF0B63elXJC0Ba-83" target="Q0vENTSF0B63elXJC0Ba-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0vENTSF0B63elXJC0Ba-138" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.422;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;startSize=30;" edge="1" parent="1" source="Q0vENTSF0B63elXJC0Ba-133" target="Q0vENTSF0B63elXJC0Ba-76">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T08:59:25.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="tXpDfaTa4KKNRIJekErS" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T09:01:42.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="kYCBdZjzg9WxMlrZazEM" version="22.0.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1332" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -304,12 +304,12 @@
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-139" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;startSize=30;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="1830" as="sourcePoint" />
-            <mxPoint x="80" y="1920" as="targetPoint" />
+            <mxPoint x="79.5" y="1630" as="sourcePoint" />
+            <mxPoint x="79.5" y="1720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-75" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;whiteSpace=wrap;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;fontFamily=Helvetica;startSize=30;" parent="1" vertex="1">
-          <mxGeometry x="20" y="1680" width="140.00428842504743" height="150" as="geometry" />
+          <mxGeometry x="20" y="1480" width="140.00428842504743" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-76" value="6" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;fontSize=18;align=center;spacing=20;verticalAlign=middle;fontFamily=Helvetica;startSize=30;" parent="Q0vENTSF0B63elXJC0Ba-75" vertex="1">
           <mxGeometry width="140" height="50" relative="1" as="geometry" />
@@ -318,10 +318,10 @@
           <mxGeometry x="0.004288425047445088" y="69.99571428571429" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-78" value="เจ้าของกิจการ" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1920" width="120" height="80" as="geometry" />
+          <mxGeometry x="24.04" y="1720" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-82" value="รายงานการขาย" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="75" y="1860" width="100" height="30" as="geometry" />
+          <mxGeometry x="75" y="1660" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-83" value="พนักงานจัดการ&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;คลังสินค้า" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="1760" width="120" height="80" as="geometry" />
@@ -405,10 +405,10 @@
           <mxGeometry x="610" y="1810" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-132" value="D3" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];container=0;dropTarget=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="24.039999999999985" y="1490" width="125.96" height="30" as="geometry" />
+          <mxGeometry x="24.039999999999985" y="1380" width="125.96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-133" value="แฟ้มข้อมูลการขาย" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="55.00000000000002" y="1490" width="95" height="30" as="geometry" />
+          <mxGeometry x="55.00000000000002" y="1380" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0vENTSF0B63elXJC0Ba-135" value="ข้อมูลการขาย" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="115" y="1278" width="90" height="30" as="geometry" />
